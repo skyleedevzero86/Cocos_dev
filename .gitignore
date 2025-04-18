@@ -1,3 +1,18 @@
+application.properties
+application.yml
+application-*.properties
+application-*.yml
+build.gradle.kts
+pom.xml
+settings.gradle.kts
+HELP.md
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+
 # Compiled class file
 *.class
 
